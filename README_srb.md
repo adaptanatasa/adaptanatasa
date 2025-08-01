@@ -70,11 +70,12 @@ kao znak poverenja, slobode i uzajamne nadogradnje. Znanje nije vlasništvo – 
 ## 🗂️ Moji projekti
 
 🔸 [adaptanatasa-univerzum](https://github.com/adaptanatasa/adaptanatasa-univerzum) – Centralni repozitorijum sa svim linkovima  
-🔸 [adaptanatasa-knjige](https://github.com/adaptanatasa/adaptanatasa-knjige) – Objavljene knjige sa ISBN u PDF/EPUB
+🔸 [adaptanatasa-knjige](https://github.com/adaptanatasa/adaptanatasa-knjige) – Objavljene knjige sa ISBN u PDF/EPUB  
 🔸 [adaptanatasa-praktikumi](https://github.com/adaptanatasa/adaptanatasa-praktikumi) – Praktikumi za Linux, DevOps, MLOps, SRE  
-🔸 [adaptanatasa-baze](https://github.com/adaptanatasa/adaptanatasa-baze) – SQL, NoSQL, OLAP, Lakehouse 
-🔸 [adaptanatasa-aplikacije](https://github.com/adaptanatasa/adaptanatasa-aplikacije) – Aplikacije za praktikume i reuse
-🔸 [adaptanatasa-sajtovi](https://github.com/adaptanatasa/adaptanatasa-sajtovi) – Staticki sajtovi: blog, udruženje, knjige  
+🔸 [adaptanatasa-baze](https://github.com/adaptanatasa/adaptanatasa-baze) – SQL, NoSQL, OLAP, Lakehouse  
+🔸 [adaptanatasa-aplikacije](https://github.com/adaptanatasa/adaptanatasa-aplikacije) – Aplikacije za praktikume i reuse  
+🔸 [adaptanatasa-sajtovi](https://github.com/adaptanatasa/adaptanatasa-sajtovi) – Statički sajtovi: blog, udruženje, knjige  
+
 
 ---
 
