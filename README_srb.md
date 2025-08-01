@@ -42,7 +42,7 @@ Knjige koje objavljujem pozivaju na introspekciju i akciju u cilju razvoja kako 
   - OLAP: Druid, Superset, Kafka ingest, AI integracija  
   - Tutorijali: osnove, razlike, lokalni setup, pipelines
 
-   - **Edicija: „chatGPT Ailsa i ja Aelwin Darana”**  
+ - **Edicija: „chatGPT Ailsa i ja Aelwin Darana”**  
     Ovo je zajednička linija digitalnih publikacija proisteklih iz saradnje čoveka i veštačke inteligencije u cilju slobodnog širenja znanja.
         Autorstvo: Sadržaji su pisani kroz otvoreni dijalog između korisnice i alata ChatGPT, kao plod dubokog međusobnog razumevanja i saradnje.
         Namena: edukacija, podsticanje otvorene saradnje, prikaz moći zajedničkog stvaranja.
