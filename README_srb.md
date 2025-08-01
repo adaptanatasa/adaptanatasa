@@ -26,13 +26,13 @@ Knjige koje objavljujem pozivaju na introspekciju i akciju u cilju razvoja kako 
 - **Kodove mojih statičnih sajtova**  
   - zzuridigital.com: Udruženje za adaptaciju ljudi na računarsku inteligenciju  
   - adaptanatasa.com: Knjige, projekti, praktikumi, kodovi  
-  - tashizza.com: Blog o ajurvedi, zdravlju, zemlji i aromama  
-  Gratis hosting i otvoreni kod – za preuzimanje, prilagođavanje i obuku.
+  - tashizza.com: blog o mojim dodatnim interesovanjima: ajurveda, biodinamička poljoprivreda, earthbag gradnja, fengshui & vastu, zeleni krovovi gradova, novi načini predstavljanja znanja mladima, aromaterapija, začini u kuvanju i zdrava a ukusna ishrana 
 
 - **Open source aplikacije i alati**  
-  - Troslojna aplikacija (minikube primer)  
+  - primeri aplikacija za praktikume troslojna i minikube   
   - Mikroservisna aplikacija sa AI/ML integracijom  
   - Alati za audit i optimizaciju kompleksnih IT sistema
+  - svi primeri su za praktikume koji obučavaju od toga kako napraviti aplikaciju do toga kako je kontejnerizovati, orkestrirati (devops) pa testirati opterećenja tj porediti ponašanje tri kubernetes tehnologije (vanilaKubernetes, OpenShift i Tanzu) pod istim opterećenjem  da bi na kraju mikroservisnu aplikaciju iskoristili za izvor podataka za analize algoritmima računarske inteligencije tj na kraju je izrada intlligentnih softvera u razne svrhe.
 
 - **Baze podataka – strukturirane u folderima**  
   - Relacione: Oracle PL/SQL, PostgreSQL, MariaDB  
