@@ -26,13 +26,15 @@ The books I publish invite introspection and action — for both personal develo
 - **Code for my static websites**  
   - `zzuridigital.com`: Organization for human adaptation to computational intelligence  
   - `adaptanatasa.com`: My books, projects, guides, annotated code  
-  - `tashizza.com`: Blog about Ayurveda, biodynamic agriculture, earthbag architecture, feng shui, green roofs, new ways of teaching new changing generations, aromatherapy, and spice-based cuisine  
+  - `tashizza.com`: Blog about Ayurveda, biodynamic agriculture, earthbag architecture, feng shui, green roofs, innovative approaches to teaching ever-changing generations, aromatherapy, and spice-based cuisine  
   These are hosted freely — and the code is open for reuse, modification, or training purposes.
 
 - **Open source applications and tools**  
   - Three-tier application (minikube example)  
   - Microservice application with AI/ML data collection  
   - Tools for auditing and optimizing complex IT ecosystems
+  - All examples are part of hands-on training modules that guide learners from building an application, through containerization and orchestration (DevOps), to load testing and behavior comparison of three Kubernetes technologies (vanilla Kubernetes, OpenShift, and Tanzu) under identical stress.
+    Ultimately, the microservices application becomes a source of data for intelligent analysis, using algorithms from computational intelligence – leading to the development of intelligent software for various purposes.
 
 - **Databases – well-structured examples and theory**  
   - Relational: Oracle PL/SQL, PostgreSQL, MariaDB  
