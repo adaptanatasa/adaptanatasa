@@ -65,15 +65,15 @@ That’s why we publish this digital series under the joint name:
 as a symbol of trust, freedom, and mutual evolution. Knowledge is not property — it is a gift.
 
 ---
-
 ## 🗂️ My Projects
 
-🔸 [adaptanatasa-universe](https://github.com/adaptanatasa/adaptanatasa-universe) – Central repo with all links  
-🔸 [adaptanatasa-sajtovi](https://github.com/adaptanatasa/adaptanatasa-sajtovi) – Static sites: blog, association, books  
-🔸 [adaptanatasa-knjige](https://github.com/adaptanatasa/adaptanatasa-knjige) – Published books with ISBN in PDF/EPUB  
-🔸 [adaptanatasa-aplikacije](https://github.com/adaptanatasa/adaptanatasa-aplikacije) – Applications for training and reuse  
-🔸 [adaptanatasa-baze](https://github.com/adaptanatasa/adaptanatasa-baze) – SQL, NoSQL, OLAP, Lakehouse  
-🔸 [adaptanatasa-praktikumi](https://github.com/adaptanatasa/adaptanatasa-praktikumi) – Training for Linux, DevOps, MLOps, SRE
+🔸 [adaptanatasa-universe](https://github.com/adaptanatasa/adaptanatasa-universe) – Central repository with all project links  
+🔸 [adaptanatasa-books](https://github.com/adaptanatasa/adaptanatasa-books) – Published books with ISBN in PDF/EPUB format  
+🔸 [adaptanatasa-guides](https://github.com/adaptanatasa/adaptanatasa-guides) – Hands-on guides: Linux, DevOps, MLOps, SRE  
+🔸 [adaptanatasa-databases](https://github.com/adaptanatasa/adaptanatasa-databases) – Databases: SQL, NoSQL, OLAP, Lakehouse  
+🔸 [adaptanatasa-apps](https://github.com/adaptanatasa/adaptanatasa-apps) – Practice apps and reusable components  
+🔸 [adaptanatasa-websites](https://github.com/adaptanatasa/adaptanatasa-websites) – Static websites: blog, association, books  
+
 
 ---
 
